@@ -1,4 +1,4 @@
-async function test() {
+async function start() {
   let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
   const views = chrome.extension.getViews({ type: 'popup' });
   let attendance = 'Yes';
@@ -45,5 +45,5 @@ async function test() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  document.getElementById('test').addEventListener('click', test);
+  document.getElementById('start').addEventListener('click', start);
 });
