@@ -11,7 +11,7 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 ## Manual Install
 > Below are the steps to install the extension manually while we wait for Chrome store approval.
 
-1. Click the **Code** button at the top of this page and click **Download Zip**.
+1. Click the **Code** button at the top of this page and click **Download ZIP**.
 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/a84f7337-7aa3-4fd4-948c-7926b0cf5ec3)
 
