@@ -20,7 +20,7 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/5515416c-a676-40d9-a2e5-22e40e8ae234)
 
 3. Unzip the contents of the folder.
-- Mac does this automatically I think. For Windows, you can just click Extract All.
+  - Mac does this automatically I think. For Windows, you can just click Extract All.
 4. Click on your extension button near the top right of your Chrome browser window and go to Manage Extensions at the bottom.
 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/d1399667-3c44-48fb-ba0d-5648dfe2d2a2)
@@ -30,5 +30,5 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/af86ae3e-a1e8-4d6d-b153-9713e42bd623)
 
 6. Drag the unzipped folder from step 3 onto the browser window. You should see the text "Drop to Install" appear.
-- Verify that this folder has an images folder inside of it
+  - Verify that this folder has an images folder inside of it
 7. Use the extension.
