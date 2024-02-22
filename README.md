@@ -25,7 +25,7 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/d1399667-3c44-48fb-ba0d-5648dfe2d2a2)
 
-5. In the top right click to toggle **Developer mode**.
+5. In the top right, click to toggle **Developer mode**.
 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/af86ae3e-a1e8-4d6d-b153-9713e42bd623)
 
