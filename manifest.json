@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Bulk Zoom Invites",
+  "version": "1.0",
+  "icons": {
+    "16": "images/Z-16.png",
+    "48": "images/Z-48.png"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["https://mail.google.com/*"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["index.js"]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bulk Zoom Invites</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h2>Bulk Zoom Invites</h2>
+    <p>
+      This extension will help you respond to multiple Zoom meeting invites at
+      one time.
+    </p>
+    <p>
+      Important note: The invites need to be consecutive in your inbox. If you
+      received an email that separates the bulk invites, you will need to run
+      the extension again beginning with the Zoom invite closest to the top of
+      your inbox.
+    </p>
+    <ol>
+      <li>
+        Open the Zoom meeting invite email closest to the top of your inbox.
+      </li>
+      <li>
+        Set your attendance (Yes, No, Maybe) for every meeting using the
+        dropdown menu.
+      </li>
+      <select id="attendance-status">
+        <option value="Yes">Yes</option>
+        <option value="Maybe">Maybe</option>
+        <option value="No">No</option>
+      </select>
+      <li>Click the Start button to set your attendance.</li>
+    </ol>
+    <button id="test">Start</button>
+    <script src="index.js"></script>
+  </body>
+</html>
