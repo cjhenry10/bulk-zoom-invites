@@ -34,4 +34,5 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/e9cc0a08-c44a-4659-83c9-69c452f7d0ab)
 
 7. Select the folder that you unzipped in step 3.
+- Verify that this folder has an images folder inside of it!
 8. Use the extension.
