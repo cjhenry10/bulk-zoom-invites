@@ -7,6 +7,7 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 1. Open the Zoom meeting invite email closest to the top of your inbox.
 2. Set your attendance (Yes, No, Maybe) for every meeting using the dropdown menu.
 3. Click the Start button to set your attendance.
+- If it doesn't start, clicking somewhere on the gmail page should fix it.
 
 ## Manual Install
 > Below are the steps to install the extension manually while we wait for Chrome Web Store approval.
