@@ -25,8 +25,12 @@ _Important note: The invites need to be consecutive in your inbox. If you receiv
 - On Mac the folder will be extracted after you click on the download.
 4. Manage Extensions to install Bulk Zoom Invites.
 - Click the **Extensions** button to the right of your address bar, then click **Manage Extensions**.
+- 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/d1399667-3c44-48fb-ba0d-5648dfe2d2a2)
+
 - From the top right of the Extensions page, click to toggle **Developer Mode**.
+- 
 ![image](https://github.com/cjhenry10/bulk-zoom-invites/assets/87096729/af86ae3e-a1e8-4d6d-b153-9713e42bd623)
+
 - Drag the extracted **bulk-zoom-invites-main** folder into your Chrome browser window. The text "Drop to install" should appear.
 5. Use the extension to accept multiple consecutive Zoom meeting invitations.
