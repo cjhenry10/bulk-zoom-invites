@@ -1,5 +1,6 @@
 # bulk-zoom-invites
 
+[Chrome Store Link](https://chromewebstore.google.com/detail/bulk-zoom-invites/mfekknnmpaempbikolphphofjibagala)
 This extension will help you respond to multiple Zoom meeting invites in your gmail inbox at one time.
 
 _Important note: The invites need to be consecutive in your inbox. If you received an email that separates the bulk invites, you will need to run the extension again beginning with the Zoom invite closest to the top of your inbox._
